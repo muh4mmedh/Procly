@@ -4,6 +4,7 @@ about: Report a bug with Procly (MSSQL to PostgreSQL AI migration tool)
 title: "[Bug] <short description>"
 labels: bug
 assignees: ''
+
 ---
 
 ## Describe the bug
